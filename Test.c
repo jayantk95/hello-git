@@ -4,5 +4,6 @@
 #include "stdio.h"
 int main() {
     printf("Hello World!");
+    printf("Git is awesome.");
     return 0;
 }
